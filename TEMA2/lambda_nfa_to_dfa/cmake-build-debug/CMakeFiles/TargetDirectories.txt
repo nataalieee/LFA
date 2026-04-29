@@ -1,0 +1,3 @@
+C:/Users/natal/Desktop/SEM II facultate/LFA/lambda_nfa_to_dfa/cmake-build-debug/CMakeFiles/lambda_nfa_to_dfa.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/lambda_nfa_to_dfa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/lambda_nfa_to_dfa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

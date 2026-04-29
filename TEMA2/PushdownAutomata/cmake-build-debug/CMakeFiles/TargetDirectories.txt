@@ -1,0 +1,3 @@
+C:/Users/natal/Desktop/SEM II facultate/LFA/PushdownAutomata/cmake-build-debug/CMakeFiles/PushdownAutomata.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/PushdownAutomata/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/PushdownAutomata/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/natal/Desktop/SEM II facultate/LFA/Lambda_NFA_to_RegEx/cmake-build-debug/CMakeFiles/Lambda_NFA_to_RegEx.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/Lambda_NFA_to_RegEx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/Lambda_NFA_to_RegEx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
