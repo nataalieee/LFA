@@ -1,0 +1,7 @@
+DA
+TABELA CYK: 
+( B ) ( A S )  -  - ( A C S ) 
+ - ( A C ) ( B ) ( B ) ( A C S ) 
+ -  - ( A C ) ( C S ) ( B ) 
+ -  -  - ( B ) ( A S ) 
+ -  -  -  - ( A C ) 

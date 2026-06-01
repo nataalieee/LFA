@@ -1,0 +1,3 @@
+C:/Users/natal/Desktop/SEM II facultate/LFA/Generare_cuv_lungime_fixa/cmake-build-debug/CMakeFiles/Generare_cuv_lungime_fixa.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/Generare_cuv_lungime_fixa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/Generare_cuv_lungime_fixa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

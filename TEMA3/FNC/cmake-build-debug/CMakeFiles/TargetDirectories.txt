@@ -1,0 +1,3 @@
+C:/Users/natal/Desktop/SEM II facultate/LFA/FNC/cmake-build-debug/CMakeFiles/FNC.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/FNC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/FNC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

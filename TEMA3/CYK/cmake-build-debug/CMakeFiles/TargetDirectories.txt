@@ -1,0 +1,3 @@
+C:/Users/natal/Desktop/SEM II facultate/LFA/CYK/cmake-build-debug/CMakeFiles/CYK.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/CYK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natal/Desktop/SEM II facultate/LFA/CYK/cmake-build-debug/CMakeFiles/rebuild_cache.dir

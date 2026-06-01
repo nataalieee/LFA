@@ -1,0 +1,20 @@
+---------- GRAMATICA FNC ------------
+
+Multime neterminali: A B S X0 X1 X2 Y0 Y1 Y2 Y3 Y4 Y5 Y6 Y7 
+Multime terminali: a b c 
+Productii: 
+A -> a
+B -> b
+S -> AB | X0Y0 | X0Y3 | X0Y5 | X0Y7 | a | b
+X0 -> a
+X1 -> b
+X2 -> c
+Y0 -> AY1
+Y1 -> X1Y2
+Y2 -> BX2
+Y3 -> AY4
+Y4 -> X1X2
+Y5 -> X1Y6
+Y6 -> BX2
+Y7 -> X1X2
+Simbol start: S
